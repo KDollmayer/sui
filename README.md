@@ -1,12 +1,18 @@
-# sui
+# CR7 
 
+## Clone
+ ```bash
+git clone https://github.com/KDollmayer/sui.git
+
+```
+
+##Executable
 ```bash 
 chmod +x sui
 
 ```
 
-## run 
-
+## Run 
 ```bash
 ~/sui
 ```
