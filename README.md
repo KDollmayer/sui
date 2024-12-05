@@ -6,7 +6,7 @@ git clone https://github.com/KDollmayer/sui.git
 
 ```
 
-##Executable
+## Executable
 ```bash 
 chmod +x sui
 
